@@ -3,7 +3,7 @@
 Build a taxi fleet management system in stochastic enviroment using MDP.
 The system contains two different agents - one for optimal solution and smaller inputs and the other for best possible solution and larger inputs.
 
-Objection:
+Objection: 
 
 Take the role of the owner of a taxi business and manage the deliver of passengers to their destinations in the shortest time possible
 
